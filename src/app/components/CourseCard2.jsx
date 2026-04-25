@@ -1,6 +1,6 @@
 
 
-export default function CourseCard() {
+export default function CourseCard2() {
     return (
         <div className={'w-[326px] h-[530px] bg-[#1A1D1F] ml-[75%] mt-[50px] text-white p-[50px] pl-[100px] mt-[20px]'}>
             <div className={''}>
